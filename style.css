@@ -15,7 +15,7 @@ body{
     height: 100vh;
 }
 nav{
-    height: 70px;
+    height: 90px;
     width: 100%;
     background-color:black;
     color: white;
@@ -25,7 +25,7 @@ nav{
     align-items: center;
 }
 main{
-    height: calc(100% - 70px);
+    height: calc(100% - 90px);
     width: 100%;
     background-color: red;
 }
